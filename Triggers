@@ -1,0 +1,4 @@
+Triggers:
+These are the special stored procedures which are automaticaly executed when any changes are made in the tables. These are a set of 
+programs which mostly occur after the DML(Data Manipulation Language) commmands like insert, update and delete. Triggers hekp in 
+maintaining the audit file regardless of which program or user changes the data. 
