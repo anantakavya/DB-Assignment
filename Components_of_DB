@@ -1,0 +1,26 @@
+Components of Databases:
+There are 11 components of a Database
+1) Software: A set of programs used to control the entire database. It consists of DBMS software, Operating Systems, Network Software which
+are used to share the data among the users and the application software is used to access the data in the Database.
+2) Hardware: These are the physical electronic components of the Database like i/o devices, computers, storage devices etc. It acts as an
+interface between the users and the computer.
+3) Data: Data is the most important component of the Databases. DBMS is used to collect, store, process and access the data whenever 
+needed. DBMS consists of actual, operational and metadata. 
+4) Procedures: These are the step by step instructions given on how to use DBMS and for designing and running the DBMS. There are
+documented instructions which are to be followed by the users while using DBMS.
+5) Database Access Language: It is a certain language which is understood by the DBMS to access, retrieve, change and save the data. The
+data can be accessed by using certain commands which are understood by the computer and the output comes in such a format that is easy 
+to understand by the user. 
+6) Query Processor: It basically processes the queries in a low level language which is understood by the DBMS and after receiving the 
+results it again changes the low level language to high level human understandable language. 
+7) Runtime Database Manager: It is usually known as Database Control System. It handles database access at the run time and acts as an 
+interface between the user- programs and the queries. It's use it to convert the operations into user queries and helps to maintain the
+consistency, integrity and security of the data. 
+8) Data Manager: It is alsow known as Cache Manager. It manages and provides the data after the crisis i.e helps in recovery after the 
+system's failure.
+9) Database Engine: It's main work is to store, process and secure the data. Helps the Database to retrieve the data faster and in a 
+controlled way for the most demanding data applications. It is mostly used as a relational database for processing the online transactions.
+10) Data Dictionary: It is a reserved space in the database to store information about the database. The information stored in the data
+dictionary can be only read and is in the form of tables and views. 
+11) Report Writer: It is also called as report generator. It extracts the information from one or more files and generates a report. The
+report can be in the form of rows and columns, charts and texts. 
