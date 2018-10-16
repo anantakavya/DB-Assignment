@@ -1,0 +1,11 @@
+ACID is a property which is followed by the Database Professionals while preparing or evaluating the databases and the architectures 
+of the applications. 
+ACID stands for 
+Atomicity: Atomicity is all or none i.e in a transaction involving two or more properties either all the transactions are commited or none
+of them are commited. 
+Consistency: This property guarantees that a transaction never leaves in a half-finished state. It either starts an entire new situation or 
+goes back to its original situation but never leaves half-finished. 
+Isolation: This property guarantees that no two properties are mixed while commiting and makes sure that each and every transaction is 
+separated until the transaction is complete so as to get the correct and consistent data. 
+Durability: This property makes sure that the changes in database is saved all the time. This helps when the database suddenly crashes or 
+shuts down, then the data available will be in the same state available before the issue. 
